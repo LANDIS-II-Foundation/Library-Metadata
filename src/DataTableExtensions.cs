@@ -192,7 +192,6 @@ namespace Landis.Library.Metadata
                 }
             }
             tbl.Rows.Add(dataRow);
-            tbl.AcceptChanges();
 
         }
 
